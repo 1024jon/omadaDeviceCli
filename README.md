@@ -1,6 +1,8 @@
 # omadaDeviceCli
 
-Dante
+## Dante ##
+
+### Gigabit Ports ###
 
 ```
 qos dscp-map 8 2
