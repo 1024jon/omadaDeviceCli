@@ -35,7 +35,7 @@ interface range ten-gigabitEthernet 1/0/min#-max#
 First we increase the DSCP value 8 to priority of 2\
 Then we select the first 10 gigabit ports numbered 1-10 and set them to trust DSCP\
 Then we select the 10G ports 49-52 and set them to trust DSCP\
-This script then gets pasted into the device CLI in the Omada controller\
+This script then gets pasted into the device CLI in the Omada controller
 ```
 qos dscp-map 8 2
 interface range gigabitEthernet 1/0/1-10
