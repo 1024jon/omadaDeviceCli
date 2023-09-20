@@ -1,7 +1,7 @@
 # omadaDeviceCli
+This is used to create a script that can be added in the Omada controller to set DSCP for specific devices and ports, primarily for Dante..
 
-![image](https://github.com/1024jon/omadaDeviceCli/assets/8061767/a50b8472-9f29-42d5-9b79-1f73ea49a6c0)
-
+![image](https://github.com/1024jon/omadaDeviceCli/assets/8061767/20b773a0-4509-4ddb-96a8-b692c578a55f)
 
 ## Dante ##
 https://www.audinate.com/learning/faqs/how-does-dante-use-dscp-diffserv-priority-values-when-configuring-qos \
